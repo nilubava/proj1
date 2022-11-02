@@ -1,8 +1,8 @@
 {
     "rewrites": [
         {
-          "source": "/proj2/:any*",
-          "destination": "https://v1.prisma.io/docs/1.34/faq/:any*"
+          "source": "/foo/:any*",
+          "destination": "https://proj2-phi.vercel.app/:any*"
         }
     ]
 }
