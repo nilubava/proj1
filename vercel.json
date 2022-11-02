@@ -1,5 +1,5 @@
 {
-       "trailingSlash": true,  
+       "trailingSlash": undefined,  
         "rewrites": [
         {
           "source": "/foo/:any*",
