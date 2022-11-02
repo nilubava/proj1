@@ -1,8 +1,0 @@
-{
-    "rewrites": [
-        {
-          "source": "/proj2",
-          "destination": "https://v1.prisma.io/docs/1.34/faq/:any*"
-        }
-    ]
-}
